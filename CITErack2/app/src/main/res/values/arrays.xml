@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names" >
+        <item>John Michael</item>
+        <item>Raymond Allen</item>
+        <item>Rovelyn</item>
+        <item>Kristan Paul</item>
+    </string-array>
+</resources>

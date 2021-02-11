@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CITErack</string>
+
+    <string-array name="Spiner_items">
+        <item>John Michael</item>
+        <item>Raymond Allen</item>
+        <item>Rovelyn</item>
+        <item>Kristan Paul</item>
+
+    </string-array>
+
+</resources>
